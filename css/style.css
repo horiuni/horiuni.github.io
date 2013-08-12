@@ -1,0 +1,34 @@
+body, h1, h2, h3, h4, h5, p {
+	font-family: Verdana, Verdana, Geneva, sans-serif;
+	color: #34495e;
+}
+h1 {
+	font-family: 'Londrina Shadow', sans-serif !important;
+}
+.logo {
+	margin-top: 60px;
+	font-size: 60px;
+}
+.jumbotron {
+	background-color: #34495e;
+	color: #fff;
+}
+.jumbotron h1 {
+	color: #fff;
+	font-weight: normal;
+}
+.jumbotron p {
+	color: #fff;
+	font-weight: normal;
+}
+.thumbnail {
+	margin-bottom: 30px;
+}
+.img-thumbnail {
+	margin-bottom: 0;
+	padding: 0;
+	border: none;
+}
+footer {
+	margin-bottom: 60px;
+}
