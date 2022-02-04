@@ -29,6 +29,13 @@ a {
 	text-decoration: underline;
 	color: #fff;
 }
+a.backToHome {
+	text-decoration: none;
+	font-family: 'Sigmar One', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 1.1em;
+}
 .row {
 	margin: 0;
 	padding: 1em;
@@ -43,6 +50,7 @@ h1 {
 h2 {
 	font-size: 40px;
 	font-weight: 700;
+	font-weight: bold;
 }
 h3 {
 	font-size: 1.5em;
@@ -66,7 +74,7 @@ p.cp {
 .textbox {
 	padding: 1em;
 	text-align: left;
-	width: 80%;
+	width: 90%;
 	max-width: 1000px;
 	margin: auto;
 }
