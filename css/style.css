@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 
 .app-graycat {
 	background-image: url(../img/bg_graycat.jpg);
@@ -8,7 +8,7 @@
 }
 
 .font-en {
-	font-family: 'Sigmar One', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .font-ja {
@@ -31,7 +31,7 @@ a {
 }
 a.backToHome {
 	text-decoration: none;
-	font-family: 'Sigmar One', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	font-size: 40px;
 	line-height: 1.1em;
@@ -45,11 +45,11 @@ a.backToHome {
 
 h1 {
 	font-size: 60px;
-	font-weight: 700;
+	font-weight: 900;
 }
 h2 {
 	font-size: 40px;
-	font-weight: 700;
+	font-weight: 900;
 	font-weight: bold;
 }
 h3 {
