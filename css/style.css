@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 
+.app-meal {
+	background: #408AA5;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .app-graycat {
 	background-image: url(../img/bg_graycat.jpg);
 	background-repeat: no-repeat;
